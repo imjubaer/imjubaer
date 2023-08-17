@@ -1,5 +1,3 @@
-![Web Developer ](https://scontent.fdac3-2.fna.fbcdn.net/v/t39.30808-6/357086303_800170891811537_5619918607521967819_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeEbaknn2rDudt4f68vrB0h2Og7UCgt4ssE6DtQKC3iywReKa3985jeF81R2KSxsVnqFY9jHNg42StJeTxNgWVcx&_nc_ohc=qCkIIuPGK6cAX96KPqt&_nc_zt=23&_nc_ht=scontent.fdac3-2.fna&oh=00_AfBs7MfVcV3NdCsLW9ek8mXjyg756mC6bEH_m_v4EYPIEw&oe=64E19107)
-
 #### Hi there 👋, I'm Jubaer Mahmud
 ##### Web Developer 
 
