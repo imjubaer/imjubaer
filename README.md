@@ -1,5 +1,5 @@
 #### Hi there 👋, I'm Jubaer Mahmud
-##### Web Developer 
+##### Cyber Security Researcher । Bug Hunter । CTF Player
 
 Currently, I am studying Computer Science. I am passionate about web development, blockchain development, and cloud computing.
 
